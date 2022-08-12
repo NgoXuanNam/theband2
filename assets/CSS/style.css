@@ -112,7 +112,7 @@ html{
 #nav li:hover .subnav{
     display: block;
 }
-.btn-menu{
+#nav #btn-menu{
  dislay: none;
 }
 
