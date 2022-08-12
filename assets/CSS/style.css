@@ -112,6 +112,9 @@ html{
 #nav li:hover .subnav{
     display: block;
 }
+.btn-menu{
+ dislay: none;
+}
 
 #nav .btn-search{
     /* display: inline-block; */
