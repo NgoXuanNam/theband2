@@ -5,7 +5,7 @@
 */
 /* PC */
 @media (min-width: 1024px){
-    #nav .btn-menu{
+    #nav #btn-menu{
         display: none;
     }
 }
